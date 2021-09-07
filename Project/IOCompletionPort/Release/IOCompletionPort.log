@@ -1,0 +1,8 @@
+﻿  IOCPServer.cpp
+  ServerMain.cpp
+  Generating code
+  2 of 18 functions (11.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  IOCompletionPort.vcxproj -> W:\C++Project\IOCompletionPort\Release\IOCompletionPort.exe
